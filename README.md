@@ -1,5 +1,6 @@
 # learning-react
-快速学习reactjs教程
+快速学习reactjs教程 https://facebook.github.io/react/
+
 
 1.安装ionic
 
